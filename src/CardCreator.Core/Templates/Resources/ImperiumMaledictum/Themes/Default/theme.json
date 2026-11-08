@@ -1,0 +1,17 @@
+﻿{
+  "name": "Default",
+  "font": {
+    "family": "Chakra Petch",
+    "regular": "Fonts/ChakraPetch/ChakraPetch-Regular.ttf",
+    "bold": "Fonts/ChakraPetch/ChakraPetch-Bold.ttf",
+    "italic": "Fonts/ChakraPetch/ChakraPetch-Italic.ttf",
+    "bold_italic": "Fonts/ChakraPetch/ChakraPetch-BoldItalic.ttf"
+  },
+  "text_color": "#000000",
+  "backgrounds": {
+    "63x88mm": {
+      "front": "front-63x88mm.png",
+      "back": "back-63x88mm.png"
+    }
+  }
+}

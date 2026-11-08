@@ -1,0 +1,8 @@
+﻿{
+  "name": "Talent",
+  "schema": "card.schema.json",
+  "themes": [ "Default", "Adeptus Mechanicus" ],
+  "layouts": {
+    "63x88mm": "layout-63x88mm.json"
+  }
+}

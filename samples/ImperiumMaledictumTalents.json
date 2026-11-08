@@ -1,0 +1,23 @@
+﻿{
+  "output_file_path": "C:\\Users\\mateu\\Desktop\\cards\\IM_talents.pdf",
+  "output_format": "A4",
+  "page_orientation": "auto",
+  "game": "Imperium Maledictum",
+  "theme": "Adeptus Mechanicus",
+  "card_type": "Talent",
+  "card_size": "63x88mm",
+  "with_backs": true,
+  "cards":
+  [
+    {
+      "name": "Fighting Spirit",
+      "requirement": "2 Advances in Melee",
+      "description": "You can reroll **one** failed attack roll per turn."
+    },
+    {
+      "name": "Quick Reflexes",
+      "requirement": "2 Advances in Agility",
+      "description": "You can reroll one failed Agility check per turn."
+    }
+  ]
+}
